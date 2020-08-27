@@ -1,11 +1,11 @@
 # ASLeap
 
-![logo](readme/asleap_logo_black.jpg)
+![logo](readme/asleap_logo_word.png)
 
+Demo on YouTube
 [![asleap](http://img.youtube.com/vi/dc4PZOSgoIQ/0.jpg)](http://www.youtube.com/watch?v=dc4PZOSgoIQ "Demo on YouTube")
 
-## Description
-ASLeap is a `Leap Motion` enabled application, written in `Processing`, which is designed to teach ASL (American Sign Language), targeting communities that want or needs to learn basic ASL, from relatives/friends of deaf kids/people to the deafs themselves who are novices in ASL. It strives to bring a playful and interactive mean of introduction to beginners, to get intrigued and inspired, hence delve deeper afterwards.
+> ASLeap is a `Leap Motion` enabled application, written in `Processing`, which is designed to teach ASL (American Sign Language), targeting communities that want or needs to learn basic ASL, from relatives/friends of deaf kids/people to the deaf themselves who are novices in ASL. It strives to bring a playful and interactive means of introduction to beginners, to get intrigued and inspired, hence delve deeper later.
 
 ![sitemap](readme/tree_tran.png)
 
