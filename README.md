@@ -1,6 +1,6 @@
 # ASLeap
 
-![logo](readme/asleap_logo_word.png)
+![logo](readme/asleap_logo_black.jpg)
 
 Demo on YouTube
 
